@@ -1,0 +1,23 @@
+body{
+  background-color: #f7fbff;
+}
+
+h1{
+  background-color: #73badc;
+  color: #ffffff;
+}
+
+#favorite{
+  color: #1b942f;
+}
+
+.special{
+  color: red;
+}
+
+#SNS{
+  border: #73badc 5px solid;
+  /* border-color: #73badc;
+  border-width: 5px;
+  border-style: solid; */
+}
